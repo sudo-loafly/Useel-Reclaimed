@@ -4,5 +4,19 @@ Useel is a (**CSS**/**SCSS**) framework developed and worked on by GeoneveStudio
 # Useel Configuration
 Useel is now configurated with **TokeScript** & **C++**.. (**Notice**) for those of you who don't know what the **configuration** of **useel** is. The languages `C++` & `TokeScript` both run on the server. Which allows useel to run faster. So, without `TokeScript, C++` **useel would be much less responsive**!
 
+###### The following down below is an example of TokeScript Configuration;
+```js
+let use = this.Compress.Variable;
+if (this.viewport exceeds this.width * this.height()) {
+  this.Compress(( cookiegem.keep({
+    this.Compress.ViewportSize.X;
+    this.Compress.ViewportSize.Y;
+  })
+});
+```
+
 # Future Updates
 Not that many in mind infact. Because;
+
+## Useel-Website
+This idea is already being worked upon this very moment: [Replit Website](https://useel.spacies.repl.co).
